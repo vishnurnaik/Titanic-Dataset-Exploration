@@ -60,9 +60,19 @@ The project includes:
 
 ## Project Structure
 
-```text
+``text
 Titanic-Dataset-Exploration/
 │
 ├── train.csv
 ├── Titanic_EDA.ipynb
 └── README.md
+
+## Key Conclusions
+
+- Female passengers had a higher survival rate than male passengers.
+- Passengers travelling in luxury classes had better chances of survival.
+- Passenger age had less impact on survival.
+- Passengers who paid higher fares were more likely to survive.
+- Passengers embarking from Port C had better survival chances.
+- Passengers travelling alone had lower survival rates.
+- Passengers with smaller families (2 to 4 members) had better survival chances compared to larger families.
